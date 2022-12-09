@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 41c3c24eaa3304fd8b09d1906b08c22c, type: 3}
+  m_Name: homa_data
+  m_EditorClassIdentifier: 
+  configData:
+  - pathHash: -1609317064
+    value: UpmOJdda
+  - pathHash: -876955219
+    value: 2d027520c70ecde
+  - pathHash: 1735753716
+    value: True
+  - pathHash: -255302860
+    value: True
+  - pathHash: -1958298337
+    value: False
+  - pathHash: 891139941
+    value: True
+  - pathHash: 2070089620
+    value: False
+  - pathHash: 647524154
+    value: 31
+  - pathHash: -1379152252
+    value: MGTguhciKMVhiznzWUgyag_hzN2Orb7CsgtlMURhsxNTv9VQeBNDtMwqlyDZTKmP0c8M6Z3yVRVPa0rEBCS2TM
+  - pathHash: 301535906
+    value: True
+  - pathHash: 920262625
+    value: 87ae2458763646ea
+  - pathHash: 445997483
+    value: a5e6006030a3ab02
+  - pathHash: 1924669887
+    value: f74be6c96ebfcb0b
+  - pathHash: 460229405
+    value: 159705c2fed1d971
+  - pathHash: -2043532047
+    value: 2c0e271be670fd27
+  - pathHash: -2133844569
+    value: 8a64828eccfb0a6f
+  - pathHash: -10439546
+    value: yjfrm7ch4hs0
+  - pathHash: 1158911540
+    value: 8v24jqfdvpc0
+  - pathHash: -1883120094
+    value: ca-app-pub-8265605982789845~7785007821
+  - pathHash: -576532312
+    value: ca-app-pub-8265605982789845~2941689347
+  - pathHash: -1790251483
+    value: True
+  - pathHash: 1985208452
+    value: 0e84230a7a28bc0403f32661da96e939
+  - pathHash: -827669570
+    value: 218dc37e8186cdeeddaf239b985104103bbd33f9
+  - pathHash: 1396189054
+    value: bcc0479086b1eebd9e0746969b8d1020
+  - pathHash: -1555731084
+    value: f14d7282540d5f7d7f264719d7ecb716d4712c19
+  - pathHash: 1198286589
+    value: 742033480428872
+  - pathHash: 1722449587
+    value: 1d2f37ad9dd0f3a4832f2b11f7cfb484
+  PluginManifestHash: -1943249385

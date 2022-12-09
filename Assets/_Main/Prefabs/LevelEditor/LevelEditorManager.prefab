@@ -1,0 +1,93 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &511948243798640853
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 511948243798640851}
+  - component: {fileID: 511948243798640850}
+  m_Layer: 0
+  m_Name: LevelEditorManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &511948243798640851
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 511948243798640853}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 10.884323, y: -4.1265984, z: 31.956623}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &511948243798640850
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 511948243798640853}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: db10374ee16904f6bb4a9ab1d1c906af, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  emptyDoorsObject: {fileID: 8001129971152071522, guid: ae487f1220ddb4eafb9d6413d8cb2f06,
+    type: 3}
+  doorPrefab: {fileID: 6750975813065091114, guid: 53197c52c7fc97945849abd503392f21,
+    type: 3}
+  doorYPoint: 0.75
+  doorRotation: {x: 0, y: 270, z: 0}
+  beginDoorPointInZ: 20
+  distanceBetweenDoors: 80
+  emptyObstaclesObject: {fileID: 8001129971152071522, guid: a7726abca1e214e029bf0b4af7e99f6d,
+    type: 3}
+  obstaclePrefab: {fileID: 842996001356748855, guid: 6e0432690e18763428efe200215f9da5,
+    type: 3}
+  obstacleYPoint: 1.3
+  obstacleRotation: {x: 0, y: 0, z: 0}
+  beginObstaclePointInZ: 40
+  distanceBetweenObstacles: 80
+  emptyObstaclesObject2: {fileID: 8001129971152071522, guid: 09bc3711248fa4b1cb004cbd145e9bf3,
+    type: 3}
+  obstaclePrefab2: {fileID: 4417810341087725924, guid: b88be79afa0712b41af19674b382e5bf,
+    type: 3}
+  obstacleYPoint2: 5.28
+  obstacleRotation2: {x: 0, y: 0, z: 0}
+  beginObstaclePointInZ2: 60
+  distanceBetweenObstacles2: 150
+  emptyBenefitObject: {fileID: 8001129971152071522, guid: 40963a2f8830547fdad2eca38c5f86d6,
+    type: 3}
+  benefitObjectPrefab: {fileID: 6310261066203569956, guid: b319dd4b25b200c49a62572631d559e8,
+    type: 3}
+  benefitYPoint: 1
+  benefitRotation: {x: 0, y: 90, z: 0}
+  beginBenefitPointInZ: 5
+  distanceBetweenBenefits: 7
+  emptyBenefitObject2: {fileID: 8001129971152071522, guid: 42c641742d48e4865ac2e222df6fe362,
+    type: 3}
+  benefitObjectPrefab2: {fileID: 6079388340024653837, guid: 2357ca84c44f40548adcd8aaf0677f53,
+    type: 3}
+  benefitYPoint2: 2
+  benefitRotation2: {x: 0, y: 0, z: 0}
+  beginBenefitPointInZ2: 0
+  distanceBetweenBenefits2: 8
+  emptyRoadObject: {fileID: 8001129971152071522, guid: b34f011a6e5ce4468bd53249859edd49,
+    type: 3}
+  roadPrefab: {fileID: 2105515339007039202, guid: 39018078269ae664c9ff0942c71f10c4,
+    type: 3}
+  finishLine: {fileID: 5802786743424623830, guid: 1db716811f79b40419008ff50bc5c82a,
+    type: 3}
+  roadYPoint: 0
+  roadRotation: {x: 0, y: 0, z: 0}

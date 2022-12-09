@@ -1,0 +1,126 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - MoneyImage
+  - MoneyText
+  - Platform
+  - FloatingJoystick
+  - Money
+  - MoneyCollector
+  - Canvas
+  - Missile
+  - HittableObject
+  - BallCollector
+  - Ball
+  - UpgradeProductionTime
+  - UpgradeArea
+  - NewArea
+  - BallPlatform
+  - BowlingAreaTarget
+  - OfficeArea
+  - Customer
+  - Waiter
+  - Line
+  - RafBallArea
+  - Exit
+  - BallTrigger
+  - BillardStickPoint
+  - Billard
+  - Langert
+  - LangertTime
+  - BillardStickPoint2
+  - BillardTimer
+  - CleaningArea
+  - MoneyTrigger
+  - CafeArea
+  - KafePoint1
+  - AICollector
+  - SpeedUpgrade
+  - StackUpgrade
+  - BarMoneyTrigger
+  - CafeChairOne
+  - CafeChairTwo
+  - CafeChairThree
+  - AIOfficer
+  - Upgrade2
+  - ShoesArea
+  - NewBallArea
+  - BallArea
+  - ShoesCleanArea
+  - ShoesAreaMoney
+  - CleanerAI
+  - ShoesDropArea
+  - UpgradeCanvas
+  - NewAreaManager
+  - Chair
+  - ShelfUpgradeArea
+  - NewBowlingArea
+  - OfficeDoor
+  - UnlockNewArea
+  - BowlingUpgradeArea
+  - SecondPart
+  - BuyCustomer
+  - NewDartArea
+  - MiniCafeArea
+  - Monies
+  - TableTennis
+  - Button
+  - ArcadeMachine
+  - HoverBoard
+  - VIPBowlingArea
+  - WaitPoint
+  - VipTrigger
+  - VipPoint1
+  - TipBox
+  - Onboarding1
+  - Onboarding2
+  - Onboarding3
+  - Onboarding4
+  - Onboarding5
+  - MoneyBag
+  - Shelf
+  - BallCollectorAIs
+  - CollectShoes
+  - ShoesUpgradeArea
+  - DropShoes
+  - Robots
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Dynamic
+  - Static
+  - Trigger
+  - AI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
